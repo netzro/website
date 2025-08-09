@@ -1,0 +1,51 @@
+.site-header {
+    background-color: #344;
+    color: white;
+    margin: 0 0 20px 0;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.site-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #ddd;
+    font-size: 80%;
+    border-top: black solid 1px;
+    margin-top: 20px;
+    padding: 20px;
+    clear: both;
+}
+
+main {
+    padding: 0 20px;
+}
+aside {
+    width: 25%;
+    min-width: 400px;
+    border: solid #555 1px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    float: right;
+}
+
+article header {
+    background-color: #cde;
+    padding: 5px;
+}
+
+article header p {
+    color: #333;
+    font-size: 90%;
+}
+
+article header h2 {
+    font-size: 1.3em;
+}
